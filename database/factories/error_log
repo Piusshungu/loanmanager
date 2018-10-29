@@ -1,0 +1,15 @@
+[31-Oct-2017 14:20:17 America/Chicago] PHP Fatal error:  Call to a member function define() on null in /home/xchange/public_html/loan/database/factories/ModelFactory.php on line 14
+[02-Nov-2017 01:50:21 America/Chicago] PHP Fatal error:  Call to a member function define() on null in /home/xchange/public_html/loan/database/factories/ModelFactory.php on line 14
+[02-Nov-2017 15:51:01 America/Chicago] PHP Fatal error:  Call to a member function define() on null in /home/xchange/public_html/loan/database/factories/ModelFactory.php on line 14
+[02-Nov-2017 21:35:29 America/Chicago] PHP Fatal error:  Call to a member function define() on null in /home/xchange/public_html/loan/database/factories/ModelFactory.php on line 14
+[06-Dec-2017 09:12:15 America/Chicago] PHP Fatal error:  Call to a member function define() on null in /home/xchange/public_html/loan/database/factories/ModelFactory.php on line 14
+[16-Dec-2017 21:10:30 America/Chicago] PHP Fatal error:  Call to a member function define() on null in /home/xchange/public_html/loan/database/factories/ModelFactory.php on line 14
+[19-Dec-2017 16:14:40 America/Chicago] PHP Fatal error:  Call to a member function define() on null in /home/xchange/public_html/loan/database/factories/ModelFactory.php on line 14
+[27-Jan-2018 09:18:13 America/Chicago] PHP Fatal error:  Call to a member function define() on null in /home/xchange/public_html/loan/database/factories/ModelFactory.php on line 14
+[12-Feb-2018 04:21:01 America/Chicago] PHP Fatal error:  Call to a member function define() on null in /home/xchange/public_html/loan/database/factories/ModelFactory.php on line 14
+[14-Mar-2018 15:57:50 America/Chicago] PHP Fatal error:  Call to a member function define() on null in /home/xchange/public_html/loan/database/factories/ModelFactory.php on line 14
+[04-Apr-2018 13:29:57 America/Chicago] PHP Fatal error:  Call to a member function define() on null in /home/xchange/public_html/loan/database/factories/ModelFactory.php on line 14
+[27-Apr-2018 16:50:21 America/Chicago] PHP Fatal error:  Call to a member function define() on null in /home/xchange/public_html/loan/database/factories/ModelFactory.php on line 14
+[20-Jul-2018 12:24:06 America/Chicago] PHP Fatal error:  Call to a member function define() on null in /home/xchange/public_html/loan/database/factories/ModelFactory.php on line 14
+[24-Jul-2018 09:40:16 America/Chicago] PHP Fatal error:  Call to a member function define() on null in /home/xchange/public_html/loan/database/factories/ModelFactory.php on line 14
+[28-Aug-2018 19:26:53 America/Chicago] PHP Fatal error:  Call to a member function define() on null in /home/xchange/public_html/loan/database/factories/ModelFactory.php on line 14

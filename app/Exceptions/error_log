@@ -1,0 +1,13 @@
+[31-Oct-2017 14:20:02 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/xchange/public_html/loan/app/Exceptions/Handler.php on line 13
+[01-Nov-2017 02:16:13 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/xchange/public_html/loan/app/Exceptions/Handler.php on line 13
+[02-Nov-2017 13:31:02 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/xchange/public_html/loan/app/Exceptions/Handler.php on line 13
+[06-Dec-2017 09:09:42 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/xchange/public_html/loan/app/Exceptions/Handler.php on line 13
+[16-Dec-2017 07:24:26 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/xchange/public_html/loan/app/Exceptions/Handler.php on line 13
+[16-Dec-2017 17:11:34 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/xchange/public_html/loan/app/Exceptions/Handler.php on line 13
+[27-Jan-2018 09:14:38 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/xchange/public_html/loan/app/Exceptions/Handler.php on line 13
+[12-Feb-2018 04:21:00 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/xchange/public_html/loan/app/Exceptions/Handler.php on line 13
+[04-Apr-2018 13:29:48 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/xchange/public_html/loan/app/Exceptions/Handler.php on line 13
+[26-Apr-2018 01:37:54 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/xchange/public_html/loan/app/Exceptions/Handler.php on line 13
+[20-Jul-2018 12:21:29 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/xchange/public_html/loan/app/Exceptions/Handler.php on line 13
+[24-Jul-2018 07:11:03 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/xchange/public_html/loan/app/Exceptions/Handler.php on line 13
+[25-Aug-2018 08:07:29 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/xchange/public_html/loan/app/Exceptions/Handler.php on line 13

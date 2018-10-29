@@ -1,0 +1,16 @@
+[02-Nov-2017 01:48:00 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/xchange/public_html/loan/app/Console/Commands/Inspire.php on line 9
+[02-Nov-2017 08:25:57 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/xchange/public_html/loan/app/Console/Commands/Inspire.php on line 9
+[02-Nov-2017 19:18:39 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/xchange/public_html/loan/app/Console/Commands/Inspire.php on line 9
+[03-Nov-2017 17:30:50 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/xchange/public_html/loan/app/Console/Commands/Inspire.php on line 9
+[06-Dec-2017 09:23:48 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/xchange/public_html/loan/app/Console/Commands/Inspire.php on line 9
+[19-Dec-2017 12:47:18 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/xchange/public_html/loan/app/Console/Commands/Inspire.php on line 9
+[19-Dec-2017 13:18:41 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/xchange/public_html/loan/app/Console/Commands/Inspire.php on line 9
+[27-Jan-2018 09:31:26 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/xchange/public_html/loan/app/Console/Commands/Inspire.php on line 9
+[12-Feb-2018 04:22:48 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/xchange/public_html/loan/app/Console/Commands/Inspire.php on line 9
+[04-Apr-2018 13:30:53 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/xchange/public_html/loan/app/Console/Commands/Inspire.php on line 9
+[27-Apr-2018 20:45:27 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/xchange/public_html/loan/app/Console/Commands/Inspire.php on line 9
+[28-Apr-2018 02:56:38 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/xchange/public_html/loan/app/Console/Commands/Inspire.php on line 9
+[20-Jul-2018 12:45:10 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/xchange/public_html/loan/app/Console/Commands/Inspire.php on line 9
+[11-Aug-2018 03:02:14 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/xchange/public_html/loan/app/Console/Commands/Inspire.php on line 9
+[28-Aug-2018 11:21:51 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/xchange/public_html/loan/app/Console/Commands/Inspire.php on line 9
+[30-Aug-2018 10:04:59 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/xchange/public_html/loan/app/Console/Commands/Inspire.php on line 9

@@ -1,0 +1,10 @@
+[02-Nov-2017 08:33:01 America/Chicago] PHP Fatal error:  Class 'App\Models\LoanSchedule' not found in /home/xchange/public_html/loan/resources/views/client/show_loan.blade.php on line 299
+[02-Nov-2017 18:30:42 America/Chicago] PHP Fatal error:  Class 'App\Models\LoanSchedule' not found in /home/xchange/public_html/loan/resources/views/client/show_loan.blade.php on line 299
+[05-Nov-2017 06:17:03 America/Chicago] PHP Fatal error:  Class 'App\Models\LoanSchedule' not found in /home/xchange/public_html/loan/resources/views/client/show_loan.blade.php on line 299
+[06-Dec-2017 09:28:09 America/Chicago] PHP Fatal error:  Class 'App\Models\LoanSchedule' not found in /home/xchange/public_html/loan/resources/views/client/show_loan.blade.php on line 299
+[27-Jan-2018 09:39:37 America/Chicago] PHP Fatal error:  Class 'App\Models\LoanSchedule' not found in /home/xchange/public_html/loan/resources/views/client/show_loan.blade.php on line 299
+[12-Feb-2018 04:23:03 America/Chicago] PHP Fatal error:  Class 'App\Models\LoanSchedule' not found in /home/xchange/public_html/loan/resources/views/client/show_loan.blade.php on line 299
+[04-Apr-2018 13:31:25 America/Chicago] PHP Fatal error:  Class 'App\Models\LoanSchedule' not found in /home/xchange/public_html/loan/resources/views/client/show_loan.blade.php on line 299
+[20-Jul-2018 12:49:03 America/Chicago] PHP Fatal error:  Class 'App\Models\LoanSchedule' not found in /home/xchange/public_html/loan/resources/views/client/show_loan.blade.php on line 299
+[11-Aug-2018 19:00:59 America/Chicago] PHP Fatal error:  Class 'App\Models\LoanSchedule' not found in /home/xchange/public_html/loan/resources/views/client/show_loan.blade.php on line 299
+[23-Aug-2018 07:23:52 America/Chicago] PHP Fatal error:  Class 'App\Models\LoanSchedule' not found in /home/xchange/public_html/loan/resources/views/client/show_loan.blade.php on line 299

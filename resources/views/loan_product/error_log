@@ -1,0 +1,12 @@
+[02-Nov-2017 08:30:35 America/Chicago] PHP Fatal error:  Class 'App\Models\LoanFeeMeta' not found in /home/xchange/public_html/loan/resources/views/loan_product/edit.blade.php on line 214
+[03-Nov-2017 04:37:40 America/Chicago] PHP Fatal error:  Class 'App\Models\LoanFeeMeta' not found in /home/xchange/public_html/loan/resources/views/loan_product/edit.blade.php on line 214
+[03-Nov-2017 19:58:50 America/Chicago] PHP Fatal error:  Class 'App\Models\LoanFeeMeta' not found in /home/xchange/public_html/loan/resources/views/loan_product/edit.blade.php on line 214
+[05-Nov-2017 08:40:49 America/Chicago] PHP Fatal error:  Class 'App\Models\LoanFeeMeta' not found in /home/xchange/public_html/loan/resources/views/loan_product/edit.blade.php on line 214
+[06-Dec-2017 09:31:04 America/Chicago] PHP Fatal error:  Class 'App\Models\LoanFeeMeta' not found in /home/xchange/public_html/loan/resources/views/loan_product/edit.blade.php on line 214
+[27-Jan-2018 09:43:11 America/Chicago] PHP Fatal error:  Class 'App\Models\LoanFeeMeta' not found in /home/xchange/public_html/loan/resources/views/loan_product/edit.blade.php on line 214
+[12-Feb-2018 04:23:08 America/Chicago] PHP Fatal error:  Class 'App\Models\LoanFeeMeta' not found in /home/xchange/public_html/loan/resources/views/loan_product/edit.blade.php on line 214
+[19-Mar-2018 00:12:14 America/Chicago] PHP Fatal error:  Class 'App\Models\LoanFeeMeta' not found in /home/xchange/public_html/loan/resources/views/loan_product/edit.blade.php on line 214
+[04-Apr-2018 13:31:35 America/Chicago] PHP Fatal error:  Class 'App\Models\LoanFeeMeta' not found in /home/xchange/public_html/loan/resources/views/loan_product/edit.blade.php on line 214
+[02-May-2018 10:32:14 America/Chicago] PHP Fatal error:  Class 'App\Models\LoanFeeMeta' not found in /home/xchange/public_html/loan/resources/views/loan_product/edit.blade.php on line 214
+[20-Jul-2018 12:51:54 America/Chicago] PHP Fatal error:  Class 'App\Models\LoanFeeMeta' not found in /home/xchange/public_html/loan/resources/views/loan_product/edit.blade.php on line 214
+[11-Aug-2018 19:47:42 America/Chicago] PHP Fatal error:  Class 'App\Models\LoanFeeMeta' not found in /home/xchange/public_html/loan/resources/views/loan_product/edit.blade.php on line 214
